@@ -1,0 +1,12 @@
+{
+    "eventHeader":{
+        "id":"2",
+        "name": "notifications",
+        "timestamp":"2023-02-24T19:00:00.00+03:00"
+     },    
+    "eventBody":{
+       "type":"sms",
+       "recipient":"+966871628312",       
+       "body":"Hellow Samy, your order has been received"
+    }
+ }

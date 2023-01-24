@@ -1,0 +1,29 @@
+{
+    "eventHeader":{
+       "id":"1",
+       "name": "recivedOrder",
+       "timestamp":"2023-02-24T19:00:00.00+03:00"
+    },
+    "eventBody":{
+       "id":"1",
+       "products":[
+          {
+             "sku":"12345",
+             "qty":1,
+             "discountCode":".15"
+          }
+       ],
+       "client":{
+          "firstName":"samy",
+          "lastName":"abushanab",
+          "email":"samykabu@gmail.com",
+          "mobile":"+966871628312",
+          "shippingAddress":{
+             "country":"Saudii Arabia",
+             "city":"Jeddah",
+             "state":"Makkah",
+             "pobox":"2343"             
+          }
+       }
+    }
+ }
